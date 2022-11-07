@@ -51,3 +51,12 @@ https://engagevr.io/
 https://www.youtube.com/watch?v=ITtz7ErWhMs
 
 ![](engage-vr.png)
+
+# Field Trip
+
+https://altvr.com/
+
+https://hello.vrchat.com/
+
+https://somniumspace.com/
+
