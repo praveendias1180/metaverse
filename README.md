@@ -23,3 +23,9 @@ https://readyplayer.me/
 Ready Player Me has launched its Avatar API that improve interoperability for cross-game avatars. The aim is to let users take their avatars with them wherever they go in the metaverse.
 
 ![](readyplayer.png)
+
+# Avatar
+
+![](avatar.png)
+
+![](ReadyPlayerMe-Avatar.jpeg)
