@@ -71,3 +71,13 @@ https://www.unrealengine.com/en-US
 # XR | VR AR | MR
 
 ![](xr.png)
+
+# Creator Economy
+
+## Economic Opportunity in the Metaverse
+
+People from all walks of life will have the opportunity to create and share their work in the metaverse, and make money doing so, reflecting the breadth and depth of humanity in the physical world. 
+
+## Content Creators in the Metaverse
+
+The metaverse has the potential to enable even greater democratization of talent, content and media creation, and expansion of creators’ businesses. 
