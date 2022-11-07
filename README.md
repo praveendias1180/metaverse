@@ -1,3 +1,7 @@
+# The Course
+
+https://www.coursera.org/learn/what-is-the-metaverse
+
 # What is Metaverse?
 
 ![](what-is.png)
