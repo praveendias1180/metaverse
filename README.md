@@ -29,3 +29,7 @@ Ready Player Me has launched its Avatar API that improve interoperability for cr
 ![](avatar.png)
 
 ![](ReadyPlayerMe-Avatar.jpeg)
+
+# Continuity
+
+When the metaverse is fully realized, you'll be able to seamlessly move from space to space. You remember this is called continuity. But more than just being able to move around, you'll also be able to take things with you, like your avatar. That's interoperability. And it's one of the core attributes that differentiates the metaverse from the internet we know today. 
